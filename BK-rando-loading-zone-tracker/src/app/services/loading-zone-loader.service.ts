@@ -29,6 +29,9 @@ export class LoadingZoneLoaderService {
           currentSection = new LevelSection(line.substr(1));
         }
         else {
+          if (currentSection) {
+            currLevel.sections.push(currentSection);
+          }
           if (currLevel) {
             this.levels.push(currLevel);
           }
@@ -36,6 +39,8 @@ export class LoadingZoneLoaderService {
           currentSection = undefined;
         }
       });
+      currLevel.sections.push(currentSection);
+      this.levels.push(currLevel);
     });
   }
 }
