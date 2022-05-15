@@ -1,0 +1,181 @@
+Mumbo's Mountain
+-Main area
+--Mumbo's skull
+--Ticker's tower (top)
+--Ticker's tower (Bottom)
+--Exit
+-Room exits
+--Mumbo's skull
+--Ticker's tower (top)
+--Ticker's tower (bottom)
+Treasure Trove Cove
+-Main area
+--Salty Hippo (top)
+--Salty Hippo (side)
+--1 note alcove (top)
+--1 note alcove (bottom)
+--Lighthouse (top)
+--Lighthouse (bottom)
+--sandcastle
+--Nipper
+--exit
+-Room exits
+--Salty Hippo (top)
+--Salty Hippo (side)
+--Sandcastle
+--Nipper
+Clanker's Cavern
+-Main area
+--Exit
+-Inside Clanker
+--Slow blade room (front)
+--Slow blade room (back)
+--Rings flight pad
+--Fast blade room
+Bubblegloop Swamp
+-Main area
+--Tanktup
+--Mumbo's skull
+--Exit
+-Room exits
+--Tanktup
+--Mumbo's skull
+Freezeezy Peak
+-Main area
+--Igloo
+--Christmas tree
+--Mumbo's skull
+--Wozza's cave
+--Exit
+-Room exits
+--Igloo
+--Christmas tree
+--Mumbo's skull
+--Wozza's cave
+Gobi's Valley
+-Main area
+--Jinxy
+--Water pyramid (top)
+--Water pyramid (bottom)
+--Matching pyramid
+--Sandybutt pyramid
+--Rubee pyramid
+--Exit
+-Room exits
+--Jinxy
+--Water pyramid
+--Matching pyramid
+--Sandybutt pyramid
+--Rubee pyramid
+Mad Monster Mansion
+-Main area
+--Napper
+--floor 1 front window
+--floor 1 back window
+--floor 2 left window
+--floor 2 right window
+--floor 3 front window
+--floor 3 back window
+--Chimney
+--Cellar
+--Tumblar shed
+--Well (top)
+--Bell tower (top)
+--Bell tower (bottom)
+--Church
+--Mumbo's skull
+--Exit
+-Room exits
+--Napper
+--Fireplace room
+--Blackeye portrait room
+--Bathroom
+--Pumpkin honeycomb room
+--Bedroom
+--Grunty tower portrait room
+--Cellar
+--Tumblar shed
+--Well (top)
+--Church
+--Mumbo's skull
+Rusty Bucket Bay
+-Main arena
+--Back pipe
+--Boss Boom Box entrance
+--Engine room entrance
+--Pipe by engine room entrance
+--Window by engine room entrance
+--Front-left window
+--Front-right window
+--Front pipe
+--Anchor room entrance
+--Left blue box
+--Middle blue box
+--Right blue box
+--Top warehouse entrance
+--Side warehouse entrance
+--Underwater warehouse entrance
+--Exit
+-Room exits
+--Engine room switch
+--Engine room
+--Pipe room
+--Dorm
+--Navigation room
+--Bedroom
+--Kitchen
+--Anchor room
+--Left blue box
+--Middle blue box
+--Right blue box
+--Chump warehouse
+--Honeycomb warehouse
+Click Clock Wood
+-Lobby
+--Exit
+-Spring
+--Mumbo's skull (entry)
+--Mumbo's skull (exit)
+--Nabnut's door (entry)
+--Nabnut's door (exit)
+--Nabnut's window (entry)
+--Nabnut's window (exit)
+--Top room (entry)
+--Top room (exit)
+-Summer
+--Mumbo's skull (entry)
+--Mumbo's skull (exit)
+--Beehive (entry)
+--Beehive (exit)
+--Nabnut's door (entry)
+--Nabnut's door (exit)
+--Nabnut's window (entry)
+--Nabnut's window (exit)
+--Top room (entry)
+--Top room (exit)
+-Fall
+--Mumbo's skull (entry)
+--Mumbo's skull (exit)
+--Beehive (entry)
+--Beehive (exit)
+--Nabnut's door (entry)
+--Nabnut's door (exit)
+--Nabnut's window (entry)
+--Nabnut's window (exit)
+--Nabnut's water room (entry)
+--Nabnut's water room (exit)
+--Top room (entry)
+--Top room (exit)
+-Winter
+--Mumbo's skull (entry)
+--Mumbo's skull (exit)
+--Nabnut's door (entry)
+--Nabnut's door (exit)
+--Nabnut's window (entry)
+--Nabnut's window (exit)
+--Nabnut's attic (entry)
+--Nabnut's attic (exit)
+--Nabnut's water room (entry)
+--Nabnut's water room (exit)
+--Top room (entry)
+--Top room (exit)
