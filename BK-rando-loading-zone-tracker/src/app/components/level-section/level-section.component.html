@@ -2,6 +2,9 @@
 <table>
     <tr *ngFor="let loadingZone of section.loadingZones">
       <th>{{loadingZone.name}}</th>
-      <th>{{loadingZone.progress}}</th>
+      <th>
+        <img *ngIf="loadingZone.progress == 0" src="/assets/question.png">
+        <img *ngIf="loadingZone.progress == 1" src="/assets/heart.png">
+      </th>
     </tr>
 </table>
