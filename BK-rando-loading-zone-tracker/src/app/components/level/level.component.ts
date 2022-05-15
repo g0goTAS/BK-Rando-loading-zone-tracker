@@ -1,15 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { Level } from 'src/app/classes/level';
 
 @Component({
   selector: 'app-level',
   templateUrl: './level.component.html',
   styleUrls: ['./level.component.css']
 })
-export class LevelComponent implements OnInit {
+export class LevelComponent {
 
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+  @Input() level: Level;
 }

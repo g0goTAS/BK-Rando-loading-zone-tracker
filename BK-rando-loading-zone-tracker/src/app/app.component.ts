@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { LoadingZoneLoaderService } from './services/loading-zone-loader.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'BK-rando-loading-zone-tracker';
+  constructor(public loadingZoneLoaderService: LoadingZoneLoaderService) {}
+  getLevels() {
+    return this.loadingZoneLoaderService.levels;
+  }
 }
