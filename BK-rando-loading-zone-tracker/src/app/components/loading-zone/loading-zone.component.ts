@@ -21,7 +21,8 @@ export class LoadingZoneComponent {
 
   @HostListener('contextmenu')
   contextMenu(): boolean {
-    this.loader.updateProgress(this.loadingZone.id, this.loadingZone.progress === Progress.EXPLORED ? Progress.UNEXPLORED : Progress.EXPLORED);
+    this.loader.updateProgress(
+      this.loadingZone.id, this.loadingZone.progress === Progress.EXPLORED ? Progress.UNEXPLORED : Progress.EXPLORED);
     return false;
   }
 }

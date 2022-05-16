@@ -1,3 +1,5 @@
-<h1>{{level.name}}</h1>
-<app-level-section *ngFor="let section of level.sections" [section]="section">
-</app-level-section>
+<div [style.background-color]="!hasUnknownLoadingZones() ? 'darkGray': 'white'">
+    <h1>{{level.name}}</h1>
+    <app-level-section *ngFor="let section of level.sections" [section]="section">
+    </app-level-section>
+</div>

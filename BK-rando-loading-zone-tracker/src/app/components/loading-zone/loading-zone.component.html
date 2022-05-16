@@ -1,5 +1,7 @@
-<td>{{loadingZone.name}}</td>
-<td>
-    <img *ngIf="loadingZone.progress == 0" src="/assets/question.png">
-    <img *ngIf="loadingZone.progress == 1" src="/assets/heart.png">
-</td>
+<div [style.background-color]="loadingZone.progress == 2 ? 'darkGray': 'white'">
+    <td><label>{{loadingZone.name}}</label></td>
+    <td>
+        <img *ngIf="loadingZone.progress == 0" src="/assets/question.png">
+        <img *ngIf="loadingZone.progress == 1" src="/assets/heart.png">
+    </td>
+</div>

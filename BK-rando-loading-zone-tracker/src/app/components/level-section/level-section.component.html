@@ -1,6 +1,8 @@
+<div [style.background-color]="!hasUnknownLoadingZones() ? 'darkGray': 'white'">
 <h2>{{section.name}}</h2>
 <table>
     <tr *ngFor="let loadingZone of section.loadingZones">
         <app-loading-zone [loadingZone]="loadingZone"></app-loading-zone>
     </tr>
 </table>
+</div>
