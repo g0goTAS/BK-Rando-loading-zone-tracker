@@ -16,7 +16,6 @@ export class LevelComponent {
     this.level.sections.forEach(section => {
       section.loadingZones.forEach(loadingZone => {
         has = loadingZone.progress === Progress.UNEXPLORED || has;
-        console.log(has);
       });
     });
     return has;

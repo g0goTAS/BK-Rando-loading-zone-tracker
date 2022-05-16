@@ -6,6 +6,7 @@ import { LevelComponent } from './components/level/level.component';
 import { LevelSectionComponent } from './components/level-section/level-section.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LoadingZoneComponent } from './components/loading-zone/loading-zone.component';
+import { TotalProgressComponent } from './components/total-progress/total-progress.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { LoadingZoneComponent } from './components/loading-zone/loading-zone.com
     LevelComponent,
     LevelSectionComponent,
     LoadingZoneComponent,
+    TotalProgressComponent,
   ],
   imports: [
     BrowserModule,

@@ -21,7 +21,6 @@ export class LoadingZoneLoaderService {
       const lines = data.split('\n');
       lines.forEach(line => {
         line = line.trim();
-        console.log(line);
         if (line.includes('--')) {
           currentSection.loadingZones.push(new LoadingZone(loadingZoneCount, line.substr(2)));
           loadingZoneCount += 1;

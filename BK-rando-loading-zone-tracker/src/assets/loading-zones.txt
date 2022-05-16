@@ -3,7 +3,6 @@ Mumbo's Mountain
 --Mumbo's skull
 --Ticker's tower (top)
 --Ticker's tower (Bottom)
---Exit
 -Room exits
 --Mumbo's skull
 --Ticker's tower (top)
@@ -18,15 +17,12 @@ Treasure Trove Cove
 --Lighthouse (bottom)
 --sandcastle
 --Nipper
---exit
 -Room exits
 --Salty Hippo (top)
 --Salty Hippo (side)
 --Sandcastle
 --Nipper
 Clanker's Cavern
--Main area
---Exit
 -Inside Clanker
 --Slow blade room (front)
 --Slow blade room (back)
@@ -36,7 +32,6 @@ Bubblegloop Swamp
 -Main area
 --Tanktup
 --Mumbo's skull
---Exit
 -Room exits
 --Tanktup
 --Mumbo's skull
@@ -46,7 +41,6 @@ Freezeezy Peak
 --Christmas tree
 --Mumbo's skull
 --Wozza's cave
---Exit
 -Room exits
 --Igloo
 --Christmas tree
@@ -60,7 +54,6 @@ Gobi's Valley
 --Matching pyramid
 --Sandybutt pyramid
 --Rubee pyramid
---Exit
 -Room exits
 --Jinxy
 --Water pyramid
@@ -84,7 +77,6 @@ Mad Monster Mansion
 --Bell tower (bottom)
 --Church
 --Mumbo's skull
---Exit
 -Room exits
 --Napper
 --Fireplace room
@@ -115,7 +107,6 @@ Rusty Bucket Bay
 --Top warehouse entrance
 --Side warehouse entrance
 --Underwater warehouse entrance
---Exit
 -Room exits
 --Engine room switch
 --Engine room
@@ -131,8 +122,6 @@ Rusty Bucket Bay
 --Chump warehouse
 --Honeycomb warehouse
 Click Clock Wood
--Lobby
---Exit
 -Spring
 --Mumbo's skull (entry)
 --Mumbo's skull (exit)
@@ -169,8 +158,6 @@ Click Clock Wood
 -Winter
 --Mumbo's skull (entry)
 --Mumbo's skull (exit)
---Nabnut's door (entry)
---Nabnut's door (exit)
 --Nabnut's window (entry)
 --Nabnut's window (exit)
 --Nabnut's attic (entry)
