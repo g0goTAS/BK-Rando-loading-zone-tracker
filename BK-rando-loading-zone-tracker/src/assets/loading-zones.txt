@@ -24,8 +24,12 @@ Treasure Trove Cove
 --Nipper
 Clanker's Cavern
 -Inside Clanker
+--left tooth
+--right tooth
 --Slow blade room (front)
 --Slow blade room (back)
+--left gill
+--right gill
 --Rings flight pad
 --Fast blade room
 Bubblegloop Swamp
@@ -76,6 +80,7 @@ Mad Monster Mansion
 --Bell tower (top)
 --Bell tower (bottom)
 --Church
+--Stained glass room
 --Mumbo's skull
 -Room exits
 --Napper
@@ -89,6 +94,7 @@ Mad Monster Mansion
 --Tumblar shed
 --Well (top)
 --Church
+--Stained glass room
 --Mumbo's skull
 Rusty Bucket Bay
 -Main arena
