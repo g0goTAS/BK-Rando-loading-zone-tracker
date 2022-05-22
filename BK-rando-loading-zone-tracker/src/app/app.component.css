@@ -1,3 +1,15 @@
-div{
+.header {
+    position: sticky;
+    top:0;
+    left: 100;
+    background-color: white;
+    border-style: solid;
+    border-width: 0;
+    border-bottom-width: 1px;
+}
+div {
     width: 420px;
+}
+h2 {
+    margin: 0;
 }

@@ -38,7 +38,7 @@ export class LoadingZoneLoaderService {
           if (currLevel) {
             this.levels.push(currLevel);
           }
-          currLevel = new Level(line);
+          currLevel = new Level(line.split('/')[0], line.split('/')[1]);
           currentSection = undefined;
         }
       });
@@ -58,5 +58,31 @@ export class LoadingZoneLoaderService {
         });
       });
     });
+  }
+  getLoadingZoneById(id: number): LoadingZone {
+    let goodLoadingZone: LoadingZone;
+    this.levels.forEach(level => {
+      level.sections.forEach(section => {
+        section.loadingZones.forEach(loadingZone => {
+          if (loadingZone.id === id) {
+            goodLoadingZone = loadingZone;
+          }
+        });
+      });
+    });
+    return goodLoadingZone;
+  }
+  getLevelAccronymByLoadingZoneId(id: number): string {
+    let accronym: string;
+    this.levels.forEach(level => {
+      level.sections.forEach(section => {
+        section.loadingZones.forEach(loadingZone => {
+          if (loadingZone.id === id) {
+            accronym = level.accronym;
+          }
+        });
+      });
+    });
+    return accronym;
   }
 }

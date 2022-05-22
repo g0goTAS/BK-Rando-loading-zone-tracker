@@ -1,4 +1,4 @@
-Mumbo's Mountain
+Mumbo's Mountain/MM
 -Main area
 --Mumbo's skull
 --Ticker's tower (top)
@@ -7,7 +7,7 @@ Mumbo's Mountain
 --Mumbo's skull
 --Ticker's tower (top)
 --Ticker's tower (bottom)
-Treasure Trove Cove
+Treasure Trove Cove/TTC
 -Main area
 --Salty Hippo (top)
 --Salty Hippo (side)
@@ -22,7 +22,7 @@ Treasure Trove Cove
 --Salty Hippo (side)
 --Sandcastle
 --Nipper
-Clanker's Cavern
+Clanker's Cavern/CC
 -Inside Clanker
 --left tooth
 --right tooth
@@ -32,14 +32,14 @@ Clanker's Cavern
 --right gill
 --Rings flight pad
 --Fast blade room
-Bubblegloop Swamp
+Bubblegloop Swamp/BGS
 -Main area
 --Tanktup
 --Mumbo's skull
 -Room exits
 --Tanktup
 --Mumbo's skull
-Freezeezy Peak
+Freezeezy Peak/FP
 -Main area
 --Igloo
 --Christmas tree
@@ -50,7 +50,7 @@ Freezeezy Peak
 --Christmas tree
 --Mumbo's skull
 --Wozza's cave
-Gobi's Valley
+Gobi's Valley/GV
 -Main area
 --Jinxy
 --Water pyramid (top)
@@ -64,7 +64,7 @@ Gobi's Valley
 --Matching pyramid
 --Sandybutt pyramid
 --Rubee pyramid
-Mad Monster Mansion
+Mad Monster Mansion/MMM
 -Main area
 --Napper
 --floor 1 front window
@@ -96,7 +96,7 @@ Mad Monster Mansion
 --Church
 --Stained glass room
 --Mumbo's skull
-Rusty Bucket Bay
+Rusty Bucket Bay/RBB
 -Main arena
 --Back pipe
 --Boss Boom Box entrance
@@ -127,7 +127,7 @@ Rusty Bucket Bay
 --Right blue box
 --Chump warehouse
 --Honeycomb warehouse
-Click Clock Wood
+Click Clock Wood/CCW
 -Spring
 --Mumbo's skull (entry)
 --Mumbo's skull (exit)

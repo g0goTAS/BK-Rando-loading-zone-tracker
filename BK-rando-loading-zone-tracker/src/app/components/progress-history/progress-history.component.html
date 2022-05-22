@@ -1,0 +1,13 @@
+<div>
+    <h2>History</h2>
+    <table>
+        <tr *ngFor="let entry of getEntries()">
+            <td width = "40">{{loader.getLevelAccronymByLoadingZoneId(entry.id)}}</td>
+            <td width = "240">{{entry.name}}</td>
+            <td>
+                <img width = "10" height ="10" *ngIf="entry.progress == 0" src="/assets/question.png">
+                <img width = "10" height ="10" *ngIf="entry.progress == 1" src="/assets/heart.png"> 
+            </td>
+        </tr>
+    </table>
+</div>
