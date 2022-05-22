@@ -62,7 +62,8 @@ Gobi's Valley/GV
 --Jinxy
 --Water pyramid
 --Matching pyramid
---Sandybutt pyramid
+--Sandybutt pyramid (front)
+--Sandybutt pyramid (back)
 --Rubee pyramid
 Mad Monster Mansion/MMM
 -Main area
