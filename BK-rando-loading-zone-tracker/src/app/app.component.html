@@ -1,7 +1,8 @@
 <div border-bottom= "2px solid">
     <div class = "header">
         <app-total-progress></app-total-progress>
+        <app-level-index></app-level-index>
         <app-progress-history></app-progress-history>
     </div>
-    <app-level *ngFor="let level of getLevels()" [level] = "level"></app-level>
+    <app-level *ngFor="let level of getLevels()" [level] = "level" [attr.id]="level.accronym"></app-level>
 </div>
