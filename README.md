@@ -9,7 +9,7 @@ Made by g0goTBC, for GiantJigglypuff3's Banjo-Kazooie randomizer.
 	npm install -g @angular/cli	(to install Angular)
 	npm install	(to install the Node modules for this project)
 
-##The launch process (1-2 minutes)
+## The launch process (1-2 minutes)
 1) In that same folder, enter the following command in a command prompt:
 	npm start
 and keep the prompt for as long as you are using the tracker.
